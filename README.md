@@ -16,6 +16,7 @@ LDO Voron 2.4 Rev D
 - [Klicky Video Guide](https://www.youtube.com/watch?v=dWMh_TOIBIo)
 - [Auto Z Offset](https://github.com/protoloft/klipper_z_calibration/wiki/How-To-Install-It)
 - [Auto Z Offset Video Guide](https://www.youtube.com/watch?v=oQYHFecsTto)
+- [Orca Backup Manager](https://ilkos-home.blogspot.com/p/orca-slicer-pm.html)
 
 ### Additional Items
 
