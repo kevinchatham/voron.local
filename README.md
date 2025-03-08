@@ -17,7 +17,8 @@ LDO Voron 2.4 Rev D
 - [Auto Z Offset](https://github.com/protoloft/klipper_z_calibration/wiki/How-To-Install-It)
 - [Auto Z Offset Video Guide](https://www.youtube.com/watch?v=oQYHFecsTto)
 - [Orca Backup Manager](https://ilkos-home.blogspot.com/p/orca-slicer-pm.html)
-
+- [Klipper Adaptive Mesh Purging](https://github.com/kyleisah/Klipper-Adaptive-Meshing-Purging)
+- [Klipper Adaptive Mesh Video Guide](https://www.youtube.com/watch?v=HydfV8h4p60)
 ### Additional Items
 
 - [Nevermore Carbon Pellets](https://www.amazon.com/dp/B01GN7ZQ70?ref=ppx_yo2ov_dt_b_fed_asin_title)
@@ -25,8 +26,6 @@ LDO Voron 2.4 Rev D
 
 ### Still to do
 
-- [Klipper Adaptive Mesh Purging](https://github.com/kyleisah/Klipper-Adaptive-Meshing-Purging)
-- [Klipper Adaptive Mesh Video Guide](https://www.youtube.com/watch?v=HydfV8h4p60)
 - [Nozzle Scrubber STL](https://www.printables.com/model/201999-nozzle-scrubber-with-a-little-bucket-for-voron-24)
 - [Ellis Tuning Guide](https://ellis3dp.com/Print-Tuning-Guide/)
 - [Angry Cam](https://mods.vorondesign.com/details/RYpQW53mtem8Nj1JKqiSQ)
