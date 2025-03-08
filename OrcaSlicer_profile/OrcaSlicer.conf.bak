@@ -1,9 +1,9 @@
 {
     "app": {
         "allow_ip_resolve": true,
-        "associate_3mf": false,
+        "associate_3mf": true,
         "associate_step": false,
-        "associate_stl": false,
+        "associate_stl": true,
         "auto_arrange": true,
         "auto_calculate": true,
         "auto_calculate_when_filament_change": true,
@@ -12,7 +12,7 @@
         "camera_navigation_style": "0",
         "check_stable_update_only": false,
         "curr_bed_type": "3",
-        "dark_color_mode": "0",
+        "dark_color_mode": "1",
         "default_page": "0",
         "developer_mode": false,
         "download_path": "C:\\Users\\kevin\\Downloads",
@@ -25,7 +25,7 @@
         "iot_environment": "3",
         "keyboard_supported": "none/alt/control/shift",
         "language": "en_US",
-        "last_backup_path": "C:\\Users\\kevin\\AppData\\Local\\Temp/orcaslicer_model/Fri_Mar_07/23_59_05#11224#121",
+        "last_backup_path": "C:\\Users\\kevin\\AppData\\Local\\Temp/orcaslicer_model/Sat_Mar_08/15_58_32#11224#1144",
         "log_severity_level": "warning",
         "max_recent_count": "18",
         "max_send": "3",
@@ -75,7 +75,7 @@
         "use_inches": "0",
         "use_legacy_3DConnexion": true,
         "use_perspective_camera": true,
-        "user_mode": "advanced",
+        "user_mode": "simple",
         "version": "01.09.05.51",
         "window_layout": "layout2|name=sidebar;caption=;state=1996;dir=4;layer=0;row=0;pos=0;prop=100000;bestw=630;besth=1350;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=main;caption=;state=256;dir=5;layer=0;row=0;pos=0;prop=100000;bestw=20;besth=20;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|dock_size(5,0,0)=20|dock_size(4,0,0)=632|",
         "zoom_to_mouse": false,
@@ -166,8 +166,9 @@
         "settings_folder": "C:\\Users\\kevin\\Downloads"
     },
     "recent_projects": {
-        "01": "C:\\Users\\kevin\\Downloads\\Body2.3mf",
-        "02": "C:\\Users\\kevin\\Downloads\\Body1.3mf"
+        "01": "C:\\Users\\kevin\\Downloads\\Brush Holder.3mf",
+        "02": "C:\\Users\\kevin\\Downloads\\Body2.3mf",
+        "03": "C:\\Users\\kevin\\Downloads\\Body1.3mf"
     }
 }
-# MD5 checksum 701E1DB87433A03ED2CA9827BBB12142
+# MD5 checksum 7CDD4D845A83A857E6B21B752AD40C8E

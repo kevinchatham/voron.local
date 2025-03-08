@@ -3,12 +3,6 @@
         "Voron PLA"
     ],
     "from": "User",
-    "hot_plate_temp": [
-        "50"
-    ],
-    "hot_plate_temp_initial_layer": [
-        "50"
-    ],
     "inherits": "Voron Generic PLA",
     "is_custom_defined": "0",
     "name": "Voron PLA",
