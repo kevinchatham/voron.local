@@ -28,3 +28,4 @@ LDO Voron 2.4 Rev D
 - [Klipper Adaptive Mesh Video Guide](https://www.youtube.com/watch?v=HydfV8h4p60)
 - [Nozzle Scrubber STL](https://www.printables.com/model/201999-nozzle-scrubber-with-a-little-bucket-for-voron-24)
 - [Ellis Tuning Guide](https://ellis3dp.com/Print-Tuning-Guide/)
+- [Angry Cam](https://mods.vorondesign.com/details/RYpQW53mtem8Nj1JKqiSQ)
