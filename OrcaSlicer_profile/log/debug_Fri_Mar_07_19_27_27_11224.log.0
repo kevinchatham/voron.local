@@ -1,0 +1,18 @@
+[warning]	2025-03-07 19:27:27.598784[Thread 0x00002fd0]:Failed to load to hints.cereal. File does not exists. C:\Users\kevin\AppData\Roaming\OrcaSlicer\user\hints.cereal
+[error]	2025-03-07 19:27:32.690529[Thread 0x00002fd0]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-03-07 19:27:35.760604[Thread 0x00002fd0]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-03-07 19:27:45.302790[Thread 0x00002fd0]:Slic3r::GUI::GuideFrame::LoadProfileFamily: parse C:\Program Files\OrcaSlicer\resources\profiles\Creality.json got exception: [json.exception.type_error.302] type must be string, but is null
+[error]	2025-03-07 19:27:46.852618[Thread 0x00002fd0]:Slic3r::GUI::GuideFrame::LoadProfileFamily: parse C:\Program Files\OrcaSlicer\resources\profiles\Elegoo.json got exception: [json.exception.type_error.302] type must be string, but is null
+[error]	2025-03-07 19:27:50.513360[Thread 0x00002fd0]:Slic3r::GUI::GuideFrame::LoadProfileFamily: parse C:\Program Files\OrcaSlicer\resources\profiles\Kingroon.json got exception: [json.exception.type_error.302] type must be string, but is null
+[error]	2025-03-07 19:29:33.333891[Thread 0x00002fd0]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-03-07 19:29:33.376751[Thread 0x00002fd0]:Slic3r::NetworkAgent::get_version, get_version not supported,return 00.00.00.00!
+[error]	2025-03-07 19:29:44.247648[Thread 0x00002fd0]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-03-07 19:32:02.178560[Thread 0x00002fd0]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-03-07 19:32:02.610097[Thread 0x00002fd0]:File Metadata/plate_1.png not found from archive
+[error]	2025-03-07 23:59:05.265258[Thread 0x00002fd0]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-03-07 23:59:06.170121[Thread 0x00002fd0]:File Metadata/plate_1.png not found from archive
+[error]	2025-03-08 00:33:20.600518[Thread 0x00002fd0]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-08 00:36:47.527707[Thread 0x00002460]:OctoPrint: Error getting version at http://[fe80::3d63:effd:8e83:a31]/api/version : curl:Couldn't connect to server:
+Failed to connect to fe80::3d63:effd:8e83:a31 port 80: Connection refused
+[Error 7], HTTP 0, body: ``
+[error]	2025-03-08 00:36:47.598530[Thread 0x00002460]:OctoPrint: Error uploading file to http://192.168.0.109/api/files/local: , HTTP 400, body: `{"error": {"code": 400, "message": "Bad Request", "traceback": "Traceback (most recent call last):\n\n  File \"/home/kevin/moonraker-env/lib/python3.11/site-packages/tornado/web.py\", line 1790, in _execute\n    result = await result\n             ^^^^^^^^^^^^\n\n  File \"/home/kevin/moonraker/moonraker/components/application.py\", line 1003, in post\n    raise tornado.web.HTTPError(400, \"Multipart filename omitted\")\n\ntornado.web.HTTPError: HTTP 400: Bad Request (Multipart filename omitted)\n"}}`
