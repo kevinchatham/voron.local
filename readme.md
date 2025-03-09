@@ -71,6 +71,8 @@ SAVE_CONFIG
 
 - [Polymaker Dry Box Double Barrel](https://www.printables.com/model/865750-polymaker-polydryer-double-barrel-mod)
 
+- [Panel Quick Latches (v3.5mm x 32)](https://www.printables.com/model/172368-voron-24-filament-latch-or-any-2020-extrusion)
+
 ### Links
 
 - [Rotate Klipper Screen](https://docs.ldomotors.com/en/guides/btt_43_rotate_guide)
