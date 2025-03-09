@@ -113,5 +113,7 @@ if ! shopt -oq posix; then
 fi
 
 alias c='clear'
+alias e='exit'
 alias backup='~/voron.local/scripts/backup.sh'
 alias update='sudo apt update && sudo apt upgrade -y && sudo apt autoremove -y'
+alias klipper='~/kiauh/kiauh.sh'
