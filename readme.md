@@ -29,16 +29,16 @@ LDO Voron 2.4 Rev D 350mm
 
 ### GCode
 
-Bed PID Tune
+ABS PID Tune
 ```
-PID_CALIBRATE HEATER=heater_bed TARGET=100
-SAVE_CONFIG
+PID_CALIBRATE HEATER=heater_bed TARGET=105
+PID_CALIBRATE HEATER=extruder TARGET=260
 ```
 
-Nozzle PID Tune
+PLA PID Tune
 ```
-PID_CALIBRATE HEATER=extruder TARGET=245
-SAVE_CONFIG
+PID_CALIBRATE HEATER=heater_bed TARGET=60
+PID_CALIBRATE HEATER=extruder TARGET=200
 ```
 
 ### Software
@@ -71,7 +71,14 @@ SAVE_CONFIG
 
 - [Polymaker Dry Box Double Barrel](https://www.printables.com/model/865750-polymaker-polydryer-double-barrel-mod)
 
-- [Panel Quick Latches (v3.5mm x 32)](https://www.printables.com/model/172368-voron-24-filament-latch-or-any-2020-extrusion)
+- [M2 Panel Quick Latches](https://www.printables.com/model/643837-wide-voron-panel-snap-latch-with-lip-using-m2-scre)
+    - F3D file was downloaded and `PanelDepth` was changed:
+        - `5mm` for 3mm panel + 3mm foam
+        - `3.5mm` for 3mm panel + 1mm foam
+    - [M2mm x 10mm Full Thread Hex Head Self Tapping](https://www.amazon.com/gp/product/B0B18QWR3L/ref=ox_sc_act_title_1?smid=ATBOIVAD2XKFJ&psc=1)
+        - Disregard what the BOM says, you need 4 of these per hinge (2 bags / 32 hinges total)
+
+- [Magnetic Door Hinges](https://www.printables.com/model/221377-voron-24-magnetic-door-hinges)
 
 ### Links
 
