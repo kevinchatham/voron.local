@@ -76,9 +76,15 @@ PID_CALIBRATE HEATER=extruder TARGET=200
         - `5mm` for 3mm panel + 3mm foam
         - `3.5mm` for 3mm panel + 1mm foam
     - [M2mm x 10mm Full Thread Hex Head Self Tapping](https://www.amazon.com/gp/product/B0B18QWR3L/ref=ox_sc_act_title_1?smid=ATBOIVAD2XKFJ&psc=1)
-        - Disregard what the BOM says, you need 4 of these per hinge (2 bags / 32 hinges total)
+        - 4 screws per hinge
+        - 6 hinges per side
+        - 24 hinges total
+        - 96 screws total
 
 - [Magnetic Door Hinges](https://www.printables.com/model/221377-voron-24-magnetic-door-hinges)
+
+- [Door Handles](https://www.printables.com/model/560582-sturdy-voron-v0-door-handle-with-ldo-version/files)
+    - `V0DoorHandleLDOThinnerTape.stl`
 
 ### Links
 
