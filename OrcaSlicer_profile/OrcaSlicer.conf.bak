@@ -25,7 +25,7 @@
         "iot_environment": "3",
         "keyboard_supported": "none/alt/control/shift",
         "language": "en_US",
-        "last_backup_path": "C:\\Users\\kevin\\AppData\\Local\\Temp/orcaslicer_model/Sat_Mar_08/15_58_32#11224#1144",
+        "last_backup_path": "C:\\Users\\kevin\\AppData\\Local\\Temp/orcaslicer_model/Fri_Mar_21/16_24_25#34228#49",
         "log_severity_level": "warning",
         "max_recent_count": "18",
         "max_send": "3",
@@ -35,12 +35,12 @@
         "open_device_tab_post_upload": true,
         "precise_control": "none/mouse left",
         "preset_folder": "",
-        "print_host_queue_dialog_column_0": "120",
-        "print_host_queue_dialog_column_1": "120",
-        "print_host_queue_dialog_column_2": "120",
-        "print_host_queue_dialog_column_3": "120",
-        "print_host_queue_dialog_column_4": "120",
-        "print_host_queue_dialog_column_5": "120",
+        "print_host_queue_dialog_column_0": "100",
+        "print_host_queue_dialog_column_1": "100",
+        "print_host_queue_dialog_column_2": "100",
+        "print_host_queue_dialog_column_3": "100",
+        "print_host_queue_dialog_column_4": "100",
+        "print_host_queue_dialog_column_5": "100",
         "print_host_queue_dialog_height": "60",
         "print_host_queue_dialog_width": "30",
         "print_host_queue_dialog_x": "1048",
@@ -75,14 +75,16 @@
         "use_inches": "0",
         "use_legacy_3DConnexion": true,
         "use_perspective_camera": true,
-        "user_mode": "simple",
+        "user_mode": "advanced",
         "version": "01.09.05.51",
         "window_layout": "layout2|name=sidebar;caption=;state=1996;dir=4;layer=0;row=0;pos=0;prop=100000;bestw=630;besth=1350;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=main;caption=;state=256;dir=5;layer=0;row=0;pos=0;prop=100000;bestw=20;besth=20;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|dock_size(5,0,0)=20|dock_size(4,0,0)=632|",
+        "window_mainframe": "1273; 0; 2574; 1440; 0",
         "zoom_to_mouse": false,
         "zoom_view": "none/mouse left"
     },
     "arrange": {
-        "min_object_distance_fff": "0"
+        "enable_rotation_fff": true,
+        "min_object_distance_fff": "5"
     },
     "filaments": [
         "Voron Generic ABS",
@@ -119,12 +121,12 @@
         },
         {
             "curr_bed_type": "3",
-            "filament": "Voron PLA",
+            "filament": "Voron Generic PLA",
             "filament_colors": "#26A69A",
             "flush_volumes_matrix": "0.000000",
             "flush_volumes_vector": "140.000000|140.000000",
             "machine": "Voron 2.4 350 0.4 Nozzle",
-            "process": "Voron Process"
+            "process": "Voron Process 0.4"
         },
         {
             "curr_bed_type": "3",
@@ -146,17 +148,35 @@
         },
         {
             "curr_bed_type": "3",
+            "filament": "Voron ABS",
+            "filament_colors": "#26A69A",
+            "flush_volumes_matrix": "0.000000",
+            "flush_volumes_vector": "140.000000|140.000000",
+            "machine": "Voron 2.4 350 0.6 Nozzle",
+            "process": "Voron Process 0.6"
+        },
+        {
+            "curr_bed_type": "3",
             "filament": "Voron Generic PLA",
             "filament_colors": "#26A69A",
             "flush_volumes_matrix": "0.000000",
             "flush_volumes_vector": "140.000000|140.000000",
             "machine": "Voron 2.4 350 0.6 nozzle",
             "process": "0.30mm Standard 0.6 nozzle @Voron"
+        },
+        {
+            "curr_bed_type": "3",
+            "filament": "Voron Generic PLA",
+            "filament_colors": "#26A69A",
+            "flush_volumes_matrix": "0.000000",
+            "flush_volumes_vector": "140.000000|140.000000",
+            "machine": "Voron 2.4 350 0.6 nozzle - Copy",
+            "process": "0.30mm Standard 0.6 nozzle @Voron"
         }
     ],
     "presets": {
         "filaments": null,
-        "machine": "Voron 2.4 350 0.4 Nozzle"
+        "machine": "Voron 2.4 350 0.6 Nozzle"
     },
     "print": {
         "bed_leveling": "1",
@@ -169,9 +189,11 @@
         "settings_folder": "C:\\Users\\kevin\\Downloads"
     },
     "recent_projects": {
-        "01": "C:\\Users\\kevin\\Downloads\\Brush Holder.3mf",
-        "02": "C:\\Users\\kevin\\Downloads\\Body2.3mf",
-        "03": "C:\\Users\\kevin\\Downloads\\Body1.3mf"
+        "01": "C:\\Users\\kevin\\Downloads\\Component4.stl",
+        "02": "C:\\Users\\kevin\\Downloads\\Body2 (1).3mf",
+        "03": "C:\\Users\\kevin\\Downloads\\NewLatchWithHandle_m2x10mmSHCS_screw.3mf",
+        "04": "C:\\Users\\kevin\\Downloads\\Door-mag-hinge.3mf",
+        "05": "C:\\Users\\kevin\\Downloads\\NewLatch-4.0mm.stl"
     }
 }
-# MD5 checksum 4767C87823A12274F621AC364FCD8EDB
+# MD5 checksum D01552055D54C30D644F615AF65C814D

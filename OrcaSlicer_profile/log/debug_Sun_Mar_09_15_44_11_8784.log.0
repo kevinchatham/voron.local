@@ -1,0 +1,6 @@
+[warning]	2025-03-09 15:44:11.856824[Thread 0x0000224c]:Failed to load to hints.cereal. File does not exists. C:\Users\kevin\AppData\Roaming\OrcaSlicer\user\hints.cereal
+[error]	2025-03-09 15:44:16.156413[Thread 0x0000224c]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-03-09 15:44:16.167308[Thread 0x0000224c]:Unable to open the fileC:\Users\kevin\Downloads\NewLatch-4.0mm.stl
+[warning]	2025-03-09 15:44:18.186324[Thread 0x0000224c]:Slic3r::NetworkAgent::get_version, get_version not supported,return 00.00.00.00!
+[error]	2025-03-09 15:44:20.772559[Thread 0x0000224c]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-03-09 15:44:21.135602[Thread 0x0000224c]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles

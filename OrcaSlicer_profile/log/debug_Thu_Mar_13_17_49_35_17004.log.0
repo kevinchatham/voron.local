@@ -1,0 +1,24 @@
+[error]	2025-03-13 17:49:36.762040[Thread 0x00004270]:Slic3r::ConfigBase::load_from_json: parse C:\Users\kevin\AppData\Roaming\OrcaSlicer\user\default\machine\Voron 2.4 350 0.6 Nozzle.json got a nlohmann::detail::parse_error, reason = [json.exception.parse_error.101] parse error at line 1, column 1: syntax error while parsing value - unexpected end of input; expected '[', '{', or a literal
+[error]	2025-03-13 17:49:36.763508[Thread 0x00004270]:parse config C:\Users\kevin\AppData\Roaming\OrcaSlicer\user\default\machine\Voron 2.4 350 0.6 Nozzle.json failed
+[error]	2025-03-13 17:49:40.661767[Thread 0x00004270]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-03-13 17:49:40.676521[Thread 0x00002520]:Unable to open the fileC:\Users\kevin\Downloads\NewLatch-4.0mm.stl
+[warning]	2025-03-13 17:49:42.850675[Thread 0x00004270]:Slic3r::NetworkAgent::get_version, get_version not supported,return 00.00.00.00!
+[error]	2025-03-13 17:49:45.167443[Thread 0x00004270]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-03-13 17:49:45.708282[Thread 0x00004270]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-03-13 17:49:51.408942[Thread 0x00004270]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-13 17:49:52.599841[Thread 0x00004270]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-13 17:49:54.308735[Thread 0x00004270]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-13 17:50:01.869094[Thread 0x00004270]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-03-13 17:50:05.713472[Thread 0x000044f0]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":325.000000,
+[error]	2025-03-13 17:50:43.204444[Thread 0x00004270]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-13 18:15:51.952441[Thread 0x00004270]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-03-13 18:15:52.269999[Thread 0x00004270]:File Metadata/plate_1.png not found from archive
+[warning]	2025-03-13 18:15:58.195406[Thread 0x000044f0]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":325.000000,
+[error]	2025-03-13 18:18:51.086745[Thread 0x00004270]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-13 18:19:07.093221[Thread 0x000053cc]:PrusaSlicer failed to resolve hostname voron.local into the IP address. Starting upload with system resolving.
+[error]	2025-03-13 18:19:09.788899[Thread 0x000053cc]:OctoPrint: Error getting version: curl:Couldn't resolve host name:
+Could not resolve host: voron.local
+[Error 6], HTTP 0, body: ``
+[error]	2025-03-13 20:39:25.479704[Thread 0x00004270]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-03-15 12:59:37.709601[Thread 0x00004270]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-03-15 12:59:43.994374[Thread 0x00004270]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
