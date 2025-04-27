@@ -1,0 +1,21 @@
+{
+    "bottom_shell_layers": "4",
+    "brim_object_gap": "1",
+    "brim_type": "no_brim",
+    "exclude_object": "0",
+    "from": "User",
+    "inherits": "0.20mm Standard @Voron",
+    "initial_layer_infill_speed": "100",
+    "initial_layer_speed": "100",
+    "is_custom_defined": "0",
+    "name": "Voron Process 0.4",
+    "precise_outer_wall": "1",
+    "print_settings_id": "Voron Process 0.4",
+    "reduce_crossing_wall": "1",
+    "small_perimeter_speed": "100",
+    "sparse_infill_pattern": "gyroid",
+    "support_speed": "200",
+    "support_type": "tree(auto)",
+    "top_surface_speed": "120",
+    "version": "2.2.0.4"
+}
